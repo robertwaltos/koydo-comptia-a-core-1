@@ -1,0 +1,5 @@
+Initial release of Koydo CompTIA A+ Core 1 Prep.
+
+• Practice questions
+• Score tracking
+• AI tutor integration
